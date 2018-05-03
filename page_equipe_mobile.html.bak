@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Projet site CAVAL</title>
+		<link rel="stylesheet" type="text/css" href="css_page_mobile/css_page_equipe_mobile.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="css_page_desktop/css_page_equipe_desktop.css">
+				
+	</head>
+	
+	<body>
+		
+		
+		<!-- le titre principal-->
+		<div id="header">
+			<div id="fixe">
+				<div id="logo">
+					<img src="image/caval_fondTransp.png" width=350px height=50px>
+				</div>
+				
+				<div id="BarreMenu">
+					<a href="page_garde_mobile.html"> Acceuil <a>
+					<a href="page_produit_mobile.html"> Nos produits <a>
+					<a href="page_equipe_mobile.html"> Notre equipe <a>
+					<a href="page_formulaire_mobile.html"> Formulaire <a>
+					<a href="page_infos_mobile.html"> L'entreprise <a>
+					<a href="#"> boutique<a>
+				</div>
+			</div>
+		</div>
+		
+		
+		<div id="photo_equipe">
+			<img src="image/image_page_equipe.png" width= 610px >
+		</div>
+		
+		<div id="texteEquipe">
+			<p>Nous c’est Achille, Benoit et Simon. On est trois amis de longue date.</p>
+			<p>On s’en veut. On a passé plus de 20 ans à enfiler nos chaussures sans se demander pourquoi elles 
+			étaient identiques. Sans laisser notre imagination nous surprendre. Jusqu’à ce qu’on réalise enfin que
+			nous portions deux fois la même chaussure, simplement par habitude. On s’en veut mais on a décidé de corriger le tir.</p>
+			<p>On a tous les trois terminé nos études en juin de cette année et aussitôt décidé de se lancer dans l’aventure CAVAL. Des dessins,
+			à la recherche d’un fabricant, à la recherche de cuirs, au prototypage des modèles, vous avez aujourd’hui devant vous 6 mois de travail. 
+			6 mois de notre vie consacrés à dépareiller le monde.</p>
+		</div>
+		
+		
+		<footer>
+			<div id="logos">
+				<a href="https://www.instagram.com/caval_chaussures/"> <img src="image/Social_Media-01-128.png"> <a>
+				<a href="https://www.facebook.com/CavalChaussures/"> <img src="image/Social_Media-02-128.png"> <a>
+			</div>
+			
+			<div id="texte_footer_droit">
+				<p> Nous contacter par mail : <br> <a href="#">jesuis@en-caval.fr</a></p>
+				<br>
+				<p> Bientôt sur de nouveaux réseaux sociaux (google+, pinterest, youtube, vimeo)</p>
+			</div>
+			
+		</footer>
+		
+		
+	</body>
+</html>

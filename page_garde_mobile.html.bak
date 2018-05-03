@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Projet site CAVAL</title>
+		<link rel="stylesheet" type="text/css" href="css_page_mobile/css_page_garde_mobile.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="css_page_desktop/css_page_garde_Desktop.css">
+				
+	</head>
+	
+	<body>
+		
+		
+		<!-- le titre principal-->
+		<div id="header">
+			<div id="fixe">
+				<div id="logo">
+					<img src="image/caval_fondTransp.png" width=350px height=50px>
+				</div>
+				
+				<div id="BarreMenu">
+					<a href="page_garde_mobile.html"> Acceuil <a>
+					<a href="page_produit_mobile.html"> Nos produits <a>
+					<a href="page_equipe_mobile.html"> Notre equipe <a>
+					<a href="page_formulaire_mobile.html"> Formulaire <a>
+					<a href="page_infos_mobile.html"> L'entreprise <a>
+					<a href="#"> boutique<a>
+				</div>
+			</div>
+		</div>
+
+		
+		<div id="video_page_garde">
+			<video width="610" height="400" controls>
+				<source src="image/caval-92.mp4" type="video/mp4">
+				Your browser does not support the video tag.
+			</video>
+		</div>
+		
+		
+		<div id="texte_presentation">
+		
+			<div id="centre1">
+				<p>Les premières baskets hors paires ! </p>
+				<br>
+			</div>
+			
+			<p>Pourquoi portons-nous deux chaussures identiques aux pieds ? alors que nous avons avons deux pieds à habiller.
+			pourquoi deux chaussures identiques ? Par simple habitude ?</p>
+			
+			<div id="centre2">
+				<br>
+				<p>quel dommage !</p>
+				<br>
+			</div>
+			
+			
+			<div id="texte1_centre">
+				<p>Porter deux chaussures identiques est un automatisme : chaque matin, on enfile ses chaussures identiques sans se demander pourquoi.
+Libérons notre imagination des automatismes, partons explorer les environs plutôt que de suivre un chemin tout tracé !</p>
+			</div>
+		</div>
+		
+		<footer>
+			<div id="logos">
+				<a href="https://www.instagram.com/caval_chaussures/"> <img src="image/Social_Media-01-128.png"> <a>
+				<a href="https://www.facebook.com/CavalChaussures/"> <img src="image/Social_Media-02-128.png"> <a>
+			</div>
+			
+			<div id="texte_footer_droit">
+				<p> Nous contacter par mail : <br> <a href="#">jesuis@en-caval.fr</a></p>
+				<p> Bientôt sur de nouveaux réseaux sociaux (google+, pinterest, youtube, vimeo)</p>
+			</div>
+			
+		</footer>
+		
+		
+	</body>
+</html>
